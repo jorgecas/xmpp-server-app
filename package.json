@@ -1,0 +1,19 @@
+{
+  "author": {
+    "email": "tres.uno@gmail.com",
+    "name": "Jorge Castillo",
+    "url": "http://github.com/jorgecas/im-server"
+  },
+  "description": "Test node-xmpp-server features",
+  "devDependencies": {},
+  "dependencies": {
+    "mongoose": "^4.9.3",
+    "node-xmpp-client": "^3.2.0",
+    "node-xmpp-server": "^2.2.7",
+    "password-hash": "^1.2.2"
+  },
+  "license": "AFL-1.1",
+  "repository": {
+    "url": "https://github.com/jorgecas/im-server"
+  }
+}
